@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=/home/vuminhduc/AndroidStudio_Project/Story/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
+FILE_HASH=be2f78a12fe077bfebf1da0e6424219f4103db7f
+DX_VERSION=1.12
+JUMBO_MODE=true
+OPTIMIZE=true
